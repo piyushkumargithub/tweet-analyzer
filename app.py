@@ -13,10 +13,10 @@ import json
 
 
 
-consumerKey = st.secrets.["consumerKey"]
-consumerSecret = st.secrets.["consumerSecret"]
-accessToken = st.secrets.["accessToken"]
-accessTokenSecret =st.secrets.["accessTokenSecret"]
+consumerKey = st.secrets["consumerKey"]
+consumerSecret = st.secrets["consumerSecret"]
+accessToken = st.secrets["accessToken"]
+accessTokenSecret =st.secrets["accessTokenSecret"]
 
 
 
